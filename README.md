@@ -1,4 +1,4 @@
-# Curso Inmersion Datos con Python de Alura
+# Curso Inmersión Datos con Python de Alura
 
 ### Realizado entre los días 11 a 14 de septiembre del 2023
 
